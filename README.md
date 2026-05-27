@@ -1,4 +1,4 @@
-# KoinX Tax Loss Harvesting Dashboard
+# KoinX Tax Harvesting Dashboard
 
 A modern React-based Tax Loss Harvesting dashboard inspired by the KoinX frontend internship assignment.
 
